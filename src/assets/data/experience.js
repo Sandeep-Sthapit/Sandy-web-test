@@ -1,4 +1,14 @@
 export const experienceData = [{
+        title: "Lead Developer",
+        date: "2021",
+        institution: {
+            name: "The Global Institute for Interdisciplinary Studies (GIIS)",
+            url: "https://giis.edu.np/",
+        },
+        details: [
+            "Creating Education and Interactive content for kids about Nature's Contribution to People",
+        ],
+    }, {
         title: "Software Development Consultant",
         date: "2021",
         institution: {

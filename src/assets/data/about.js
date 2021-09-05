@@ -5,7 +5,7 @@ export const introductionData = {
     },
     texts: [
         'Hello, I am Sandeep.',
-        'I am a Research Enthusiast with a passion for understanding how people learn and creating a creative and interactive learning environment. I have a unique combination of design, development, and research experience that enables me to tackle a diverse set of problems in projects.',
+        'I am Computer Science PhD student with research interests in understanding how people learn and creating creative and interactive learning environments. I have a unique combination of design, development, and research experience that enables me to tackle a diverse set of problems in projects.',
         'In my free time, I enjoy traveling, playing games, and bodyweight fitness.'
     ]
 }
