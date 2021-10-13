@@ -1,7 +1,7 @@
 export const skillsData = [{
         category: "Programming",
         items: [
-            "Python", "JavaScript", "HTML", "CSS", "Vue.js", "C++", "C", "Matlab", "Android Application Development (Java)"
+            "Python", "JavaScript", "HTML", "CSS", "Vue.js", "C++", "C", "Matlab", "Java"
         ]
     },
     {

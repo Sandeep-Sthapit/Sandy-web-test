@@ -9,7 +9,7 @@
       <a href="https://github.com/Sandeep-Sthapit" target="_blank">
         <img src="../assets/github-logo.svg" />
       </a>
-      <a href="www.linkedin.com/in/sandeep-sthapit" target="_blank">
+      <a href="https://www.linkedin.com/in/sandeep-sthapit" target="_blank">
         <img src="../assets/linkedin.svg" />
       </a>
       <a href="https://www.facebook.com/sandeepsthapit" target="_blank">

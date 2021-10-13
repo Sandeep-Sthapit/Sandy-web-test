@@ -5,7 +5,8 @@ export const introductionData = {
     },
     texts: [
         'Hello, I am Sandeep.',
-        'I am Computer Science PhD student with research interests in understanding how people learn and creating creative and interactive learning environments. I have a unique combination of design, development, and research experience that enables me to tackle a diverse set of problems in projects.',
-        'In my free time, I enjoy traveling, playing games, and bodyweight fitness.'
+        'I am Computer Science PhD student at North Carolina State University.',
+        'My research interests are in Human Computer Interaction, Interactive learning environments, Computer Games and User Experience. I have a unique combination of design, development, and research experience that enables me to tackle a diverse set of problems.',
+        'I am currently working as Graduate Teaching Assistant for Software Engineering course.'
     ]
 }
