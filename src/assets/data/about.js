@@ -1,6 +1,6 @@
 export const introductionData = {
     avatar: {
-        src: 'https://res.cloudinary.com/sandeepsthapit/image/upload/v1604813622/Website/sandeep_pp.jpg',
+        src: 'https://res.cloudinary.com/sandeepsthapit/image/upload/v1655349903/Website/sandy-small.jpg',
         alt: 'avatar image'
     },
     texts: [
