@@ -1,4 +1,14 @@
 export const experienceData = [{
+        title: "Graduate Teaching Assistant for Software Engineering",
+        date: "2021 - 2022",
+        institution: {
+            name: "North Carolina State University (NCSU)",
+            url: "https://www.csc.ncsu.edu/",
+        },
+        details: [
+            "Creating Education and Interactive content for kids about Nature's Contribution to People",
+        ],
+    }, {
         title: "Lead Developer",
         date: "2021",
         institution: {
