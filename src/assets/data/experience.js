@@ -1,12 +1,42 @@
 export const experienceData = [{
+        title: "Instructor for Introduction to Computing – Java",
+        date: "Summer 2022",
+        institution: {
+            name: "North Carolina State University (NCSU)",
+            url: "https://www.engineeringonline.ncsu.edu/course/csc-116-introduction-to-computing-java-3/",
+        },
+        details: [
+            "Teaching basic programming concepts in Java to a distance education section. Creating course syllabus, schedule and managing the course including all logistic details related to the course and students.",
+        ],
+    }, {
+        title: "Instructor for Introduction to Computing Environments",
+        date: "Summer 2022",
+        institution: {
+            name: "North Carolina State University (NCSU)",
+            url: "https://e115.engr.ncsu.edu/",
+        },
+        details: [
+            "Managing the hybrid course that mostly included online course materials. Creating course syllabus, schedule and managing the course including all logistic details related to the course and students.",
+        ],
+    }, {
         title: "Graduate Teaching Assistant for Software Engineering",
-        date: "2021 - 2022",
+        date: "Fall 2021 and Spring 2022",
         institution: {
             name: "North Carolina State University (NCSU)",
             url: "https://www.csc.ncsu.edu/",
         },
         details: [
-            "Creating Education and Interactive content for kids about Nature's Contribution to People",
+            "Instructing software engineering practices with GitHub, GitHub Actions, Java, Maven, AngularJS, REST API,  testing with JUnit and documenting the process with static and dynamic diagrams and wireframes.",
+        ],
+    }, {
+        title: "Graduate Teaching Assistant for Software Engineering",
+        date: "Fall 2021 and Spring 2022",
+        institution: {
+            name: "North Carolina State University (NCSU)",
+            url: "https://www.csc.ncsu.edu/",
+        },
+        details: [
+            "Instructing software engineering practices with GitHub, GitHub Actions, Java, Maven, AngularJS, REST API,  testing with JUnit and documenting the process with static and dynamic diagrams and wireframes.",
         ],
     }, {
         title: "Lead Developer",
