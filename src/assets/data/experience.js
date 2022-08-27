@@ -1,4 +1,14 @@
 export const experienceData = [{
+        title: "Graduate Teaching Assistant for Human Computer Interaction",
+        date: "Fall 2022",
+        institution: {
+            name: "North Carolina State University (NCSU)",
+            url: "https://www.csc.ncsu.edu/",
+        },
+        details: [
+            "Teaching HCI methods and evaluation techniques for graduate students.",
+        ],
+    }, {
         title: "Instructor for Introduction to Computing – Java",
         date: "Summer 2022",
         institution: {
@@ -17,16 +27,6 @@ export const experienceData = [{
         },
         details: [
             "Managing the hybrid course that mostly included online course materials. Creating course syllabus, schedule and managing the course including all logistic details related to the course and students.",
-        ],
-    }, {
-        title: "Graduate Teaching Assistant for Software Engineering",
-        date: "Fall 2021 and Spring 2022",
-        institution: {
-            name: "North Carolina State University (NCSU)",
-            url: "https://www.csc.ncsu.edu/",
-        },
-        details: [
-            "Instructing software engineering practices with GitHub, GitHub Actions, Java, Maven, AngularJS, REST API,  testing with JUnit and documenting the process with static and dynamic diagrams and wireframes.",
         ],
     }, {
         title: "Graduate Teaching Assistant for Software Engineering",
