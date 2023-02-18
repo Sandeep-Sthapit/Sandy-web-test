@@ -1,5 +1,27 @@
 export const experienceData = [{
         title: "Instructor for Introduction to Computing – Java",
+        date: "Spring 2022",
+        institution: {
+            name: "North Carolina State University (NCSU)",
+            url: "https://www.engineeringonline.ncsu.edu/course/csc-116-introduction-to-computing-java-3/",
+        },
+        details: [
+            "Developed/Adapted Lecture Materials, Delivered lectures, supervised in-class labs",
+            "Taught flipped classroom; adapted course materials; managed undergraduate teaching assistant; graded group projects;",
+            "Provided office hours; provided assistance to students via emails and piazza posts"
+        ],
+    }, {
+        title: "Graduate Teaching Assistant for Human Computer Interaction",
+        date: "Fall 2022",
+        institution: {
+            name: "North Carolina State University (NCSU)",
+            url: "https://www.csc.ncsu.edu/",
+        },
+        details: [
+            "Instruct students on design principles and human centered design. Develop tools to provide assignment feedback and manage/grade student assignments.",
+        ],
+    }, {
+        title: "Instructor for Introduction to Computing – Java",
         date: "Summer 2022",
         institution: {
             name: "North Carolina State University (NCSU)",
