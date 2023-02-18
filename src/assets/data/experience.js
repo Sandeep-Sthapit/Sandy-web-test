@@ -1,16 +1,6 @@
 export const experienceData = [{
-        title: "Graduate Teaching Assistant for Human Computer Interaction",
-        date: "Fall 2022",
-        institution: {
-            name: "North Carolina State University (NCSU)",
-            url: "https://www.csc.ncsu.edu/",
-        },
-        details: [
-            "Teaching HCI methods and evaluation techniques for graduate students.",
-        ],
-    }, {
         title: "Instructor for Introduction to Computing – Java",
-        date: "Spring 2022",
+        date: "Spring 2023",
         institution: {
             name: "North Carolina State University (NCSU)",
             url: "https://www.engineeringonline.ncsu.edu/course/csc-116-introduction-to-computing-java-3/",
@@ -19,6 +9,16 @@ export const experienceData = [{
             "Developed/Adapted Lecture Materials, Delivered lectures, supervised in-class labs",
             "Taught flipped classroom; adapted course materials; managed undergraduate teaching assistant; graded group projects;",
             "Provided office hours; provided assistance to students via emails and piazza posts"
+        ],
+    }, {
+        title: "Graduate Teaching Assistant for Human Computer Interaction",
+        date: "Fall 2022",
+        institution: {
+            name: "North Carolina State University (NCSU)",
+            url: "https://www.csc.ncsu.edu/",
+        },
+        details: [
+            "Teaching HCI methods and evaluation techniques for graduate students.",
         ],
     }, {
         title: "Graduate Teaching Assistant for Human Computer Interaction",
